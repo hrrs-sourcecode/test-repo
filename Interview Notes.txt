@@ -1,0 +1,54 @@
+the possibility question to be ask to you
+Q : Describe about you 
+A : Someone who has high standard of each work. adding value in every job i worked.  I am confident in my ability to develop and problem solve, and I like to meet new people.”
+Q : Why you're leaving your previous job
+A : Actually, I like being in mitrais, and that is the reason why I left, the company become my comfort zone... I wanna experiencing new workplace, new homestay..
+Q : What is your weakness
+A : weakness is blindspot... manager feedback.... additional enhancement... added value to the task im working
+Q : What do you see about yourself in five years
+A : student one of the university in germany, speak german, pursuing master degree
+Q : Interest 
+A : I like to having complete process of software engineer
+Q : Background 
+A : Having alot of background, spread from sharepoint mvc web form, drupal, and episerver, but im not very in depth knowledge in one of those technology
+Q : Motivation
+A : Experiencing new workplace, new environment, like to try livit work environment
+Q : Why should we hired you ?
+A : I have out of the box way of thinking, I can adapt quickly, and i have vast of exposure in different technologies to prove that im quite fast learner for a new things
+
+Im quite passionate of logical challenge
+
+weakness : make a documentation of things ( not good at documenatate things )
+question : 
+how is everydays work at livit 
+do you 
+
+--- pitch introduction : My name is Harris, I've been working as a software engineer for ten years, the technology I frequently used is C#, VB.net for the back end,  SQL Server, Oracle for the Database, CSS, Jquery, HTML 5 for the front end, and MVC for the frontend framework, and recently, I'm quite familiar with angular, since I self-learned this for a while.  And for my experience as a Fullstack Developer, I was always a full-stack developer, since from the first time I worked as a Software Engineer at Mitrais, there is no separation between frontend and back end, so it's always full-stack.From the business standpoint, I have covered mining, workshop, banking, accounting, insurance, hospital, inventory, etc. So based on my experience in various business processes, I would say that I could bring more value rather than just being a full-stack developer, I could connect business with technologies, full-stack is only in the development stages, and I could cover the work from the requirement stages, analysis stages, then, of course, development stage. I'm quite a fast learner and would like to learn new things and technology, just don't know where to start. so if its required, I don't mind learning new technologies that I don't have right now.
+
+--- whats your biggest achievement : I have many things I could proud of, like once there is a project, six months project and have three phase, for the first phase we are spent 3 months to develop, behind the schedule, but we somehow finished the project in four months, ahead of the schedule 2 months.
+for the career perspective, my biggest achievement is when I working as a partner with company to do the project,
+
+--- what is your strength : 
+Experience, I have covered various business process, so I could work directly with the user, there is no need for business analyst and system analyst
+Fast Learner, I am trained with new requirement every project and have to update with recent technologies each year, so i believe that im a fast learner
+Don't mind to learn new thing, I don't mind to learn new things and technologies that I dont know.
+
+--- What is you weakness :
+Public speaking, I don't use any grammar when I explain things and lack of intonation when im explaining, also i feel that somehow I lack of imagination when Im elaborate my point
+Want to know all things, sometime i think i focused in one thing is more valuable rather than know all things, but just a nutshell
+
+-- list of question : 
+career, 
+benefit,
+technology
+ 
+why async : to scale up the application, so when the table consist of 1000 data, the performance is not quite different instead if the table consist of 1 data
+cors : alloworigin (domain), allowmethod (httppost/httpget), allowheader ( authorization / contenttype)
+httpinterceptor : can intercept any http, request or response.
+localstorage / sessionstorage : localstorage save the value after the application is closed from the device, sessionstorage is not
+authorization should be registered on the middleware
+authguard 
+lazyload only load when it is needed
+
+my name is harris, I've been working as a software engineer for ten years, since 2012, in mitrais, where i got most of my  
+
