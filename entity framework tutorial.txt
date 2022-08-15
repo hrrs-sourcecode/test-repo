@@ -1,0 +1,9 @@
+setting up in entity framework :
+install with nu get package : EntityFrameworkCore,  EntityFrameworkCoreSQLServer, EntityFrameworkCoreTools
+
+add new table in entity framework :
+create class model 
+create class AppDBContext
+add code like this example : public DbSet<Employee> Employees { get; set; }
+run add-migration
+run update-database
